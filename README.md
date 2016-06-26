@@ -25,18 +25,18 @@ DEBUG=* SEARCH_TERM="" node .
 * **SIZE**: (default '') Allows for the specification image sizes "small", "medium", "large", etc 
 
 ## Google Custom Search API
-Visit (https://developers.google.com/custom-search/) for more information.
+Visit https://developers.google.com/custom-search/ for more information.
 
 ## Future items
 **NOTE: This is an example.  It could be a lot better and needs additional elements for use in production**
 Also, the insert does not check for duplicates. 
 
 ## Setup with Google
-Setup a project and get API Key for account (https://console.developers.google.com/)
+Setup a project and get API Key for account https://console.developers.google.com/
 
 
 ### Custom Search Engine
-Create a Custom Search Engine at (https://cse.google.com/cse/setup/basic)
+Create a Custom Search Engine at https://cse.google.com/cse/setup/basic
 
 Settings:
 * Image Search `On`
